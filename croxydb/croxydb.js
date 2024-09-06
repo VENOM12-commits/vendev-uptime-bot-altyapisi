@@ -1,0 +1,1 @@
+{} //veriler sakladım vermedim sıfırdan burda olcak not: istersen bu mesaj sil
